@@ -12,13 +12,13 @@ private/var/mobile/Applications/XXXXXXXX-XXXX-XXXX-XXXXXXXXXXXX/Libary/Preferenc
 
 
 
-WWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWWWWW
-WWWWWWWWWWWWWWWWWWW
+W@+++++++++++++++*@
++*===##########====
+*====#@@@@@@@@#====
+*=#@@@@@@@@@@@@@@#=
+*=###=********=##==
+*====+::::::::*====
+*====+::::::::*====
+*====+::::::::*====
+*====+::::::::*====
+W#===============##
